@@ -23,6 +23,7 @@ import storm.kafka.ZkHosts;
  * Domain:   www.itcast.cn
  * Data:     2015/11/10.
  */
+//xiaomai
 public class LogMonitorTopologyMain {
     private static Logger logger = Logger.getLogger(LogMonitorTopologyMain.class);
 
