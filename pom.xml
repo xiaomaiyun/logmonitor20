@@ -8,6 +8,7 @@
     <artifactId>logmonitor</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+	<--xiaomaiyun-->
     <dependencies>
         <dependency>
             <groupId>org.apache.storm</groupId>
